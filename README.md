@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">eduweb - Website</h2>
+  <h2 align="center">eduweb - Landing Page</h2>
 
   這是一個線上學習的一頁式網頁，使用 HTML/CSS 切版製作，響應式設計（RWD）。
 </div>
