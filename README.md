@@ -23,3 +23,4 @@
 - 自訂 CSS 變數，統一管理色彩與字體大小
 - Back to Top 置頂按鈕
 - SEO 友善語意標籤
+- 平滑滾動（Smooth Scroll）功能
